@@ -1,33 +1,37 @@
-😈 Java + Death Note = Ek aisa scary text editor jisme coding bhi hai aur Ryuk bhi!
+# 💀 Death Note - A Sinister Java Text Editor
 
-Is video mein maine banaya hai **Death Note jaisa Java Project** jisme:
-☠️ Java Swing se GUI banayi gayi hai
-🎨 Dark theme di gayi hai ekdum gothic style mein
-📁 File open/save/print features diye gaye hain
-😱 Ryuk random dialogues bolta rehta hai (Scary Vibes ON)
-🎵 Background mein Death Note ka theme music bhi bajta hai non-stop!
+> Inspired by the *Death Note anime*, this is not your regular text editor. It's dark, it's moody, and Ryuk is watching you type... 👀
 
-Aur sab kuch explain kiya gaya hai **Hinglish mein, comedy ke saath!** 😂
-
-👉 Agar tu beginner hai ya koi **college project idea** dhoond raha hai, ya bas Java seekhna chah raha hai in a fun way, toh yeh video tu miss nahi kar sakta bhai!
-
-📌 Video dekhne ke baad comment zarur karna –  
-**Agar tere paas asli Death Note hota, tu pehla naam kis ka likhta? 😳**
-
-🎯 LIKE karna mat bhoolna  
-🎯 SHARE karo apne coding wale doston ke saath  
-🎯 SUBSCRIBE karo aise maze daar Java projects ke liye
+![Death Note Screenshot](screenshot.png) <!-- Replace with actual screenshot -->
 
 ---
 
-📂 Source Code & Resources:
-🔗 [Yahan apna GitHub ya Drive link daal]
+## ✨ Features
 
-📱 Connect with me:
-Instagram – [@tera_username]  
-GitHub – [@tera_github]  
-LinkedIn – [@tera_linkedin]
+- 🖤 **Gothic Dark UI** using Java Swing
+- 🎵 Background music: *Death Note Theme* (looped)
+- 💬 Random scary quotes by **Ryuk** every few minutes
+- 📂 Save, Open, and Print files
+- ✂️ Cut, Copy, Paste, Select All with keyboard shortcuts
+- 🔥 Custom Scrollbar and Menu styling
+- 💻 Full keyboard navigation support
+- ⚠️ Fun & creepy Easter Eggs inside 😉
 
 ---
 
-#DeathNoteJava #JavaProjectIdeas #JavaSwingGUI #FunnyCodingVideo #CodeWithNavneet #TextEditorJava #DeathNoteEditor #JavaInHinglish #JavaBeginnersProject #AnimeInspiredApp #CollegeProject2025 #HorrorCoding #RyukDialogues #CodingWithFun #JavaSwingProject
+## 🧠 Technologies Used
+
+- Java SE (JDK 8+)
+- Java Swing
+- javax.sound.sampled (for audio playback)
+- Java AWT & Event handling
+
+---
+
+## 📁 How to Run
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/your-username/death-note-text-editor.git
+   cd death-note-text-editor
