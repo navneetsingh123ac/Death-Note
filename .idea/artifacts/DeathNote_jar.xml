@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DeathNote:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DeathNote_jar</output-path>
+    <root id="archive" name="DeathNote.jar">
+      <element id="module-output" name="DeathNote" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf/2.0/flatlaf-2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
